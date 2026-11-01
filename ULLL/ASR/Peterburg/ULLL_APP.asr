@@ -1,0 +1,48 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:Arkhanglesk sector:
+ARTCC boundary:KALININGRAD ACC:
+ARTCC boundary:Kotlas sector:
+ARTCC boundary:Murmansk sector:
+ARTCC boundary:Oceanic sector:
+ARTCC boundary:Peterbrug Approach:
+ARTCC boundary:Pulkovo Radar:
+ARTCC boundary:R sector:
+ARTCC boundary:Syktyvkar sector:
+ARTCC high boundary:Ekaterinenburg FIR:
+ARTCC high boundary:Minsk CTR:
+ARTCC high boundary:Moscow G5:
+ARTCC high boundary:Moscow S:
+ARTCC high boundary:Moscow Z:
+ARTCC high boundary:Tyumen FIR:
+ARTCC low boundary:Levashovo CTR:
+ARTCC low boundary:Pulkovo Tower:
+Geo:ULLL FIR border Borders:
+NDBs:K:symbol
+NDBs:L:symbol
+NDBs:O:symbol
+NDBs:PK:symbol
+NDBs:PL:symbol
+NDBs:PO:symbol
+NDBs:PU:symbol
+NDBs:U:symbol
+Regions:ULLL Approch background:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:200
+ABOVE:0
+LEADER:6
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:349.00000
+TAGFAMILY:Galaxy Approach
+WINDOWAREA:58.524800:26.501266:60.648290:34.647309
+PLUGIN:TopSky plugin:HideMapData:ULLL_CTR
+PLUGIN:TopSky plugin:ShowMapData:ULLL_APP
